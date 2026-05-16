@@ -1,0 +1,1 @@
+# scoop-team-paper-lite
