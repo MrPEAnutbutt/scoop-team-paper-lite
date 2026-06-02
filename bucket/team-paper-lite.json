@@ -1,9 +1,9 @@
 {
-  "version": "v1.3.4",
+  "version": "v1.3.5",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/MrPEAnutbutt/team-paper-lite-dist/releases/download/v1.3.4/team-paper-lite-windows-x86_64.exe",
-      "hash": "4201c5c7f79f280b6bb2fa0b6d31953ae66cd1bfc2a0d0c62b3c663ef7e47792"
+      "url": "https://github.com/MrPEAnutbutt/team-paper-lite-dist/releases/download/v1.3.5/team-paper-lite-windows-x86_64.exe",
+      "hash": "ae4c3d47ba1c8c116d06c3fd0296fce738aa60d4e36f5612f3be4d3a07bf2f94"
     }
   },
   "bin": [
